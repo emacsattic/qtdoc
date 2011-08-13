@@ -42,7 +42,7 @@
 (defgroup qtdoc nil "Qt Documentation Browser"
   :group 'wp
   :version "21.1"
-  :link '(url-link "http://furius.ca/pubcode/conf/common/elisp/qtdoc.el"))
+  :link '(url-link "http://furius.ca/pubcode/conf/lib/elisp/qtdoc.el"))
 
 (defvar qtdoc-html-root "/usr/share/doc/qt-4.2.3/html"
   "The directory where your documentation lies.
